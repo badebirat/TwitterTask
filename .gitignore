@@ -2,3 +2,7 @@
 *.sock
 *.log
 *.cnf
+._SUCCESS.crc
+*.csv
+*.crc
+_SUCCESS
