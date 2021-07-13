@@ -1,0 +1,4 @@
+*.idea
+*.sock
+*.log
+*.cnf
